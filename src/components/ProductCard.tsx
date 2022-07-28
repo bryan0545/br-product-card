@@ -12,7 +12,6 @@ import { ReactElement } from 'react';
 
 export interface Props {
   product: Product;
-  // children?: ReactElement | ReactElement[];
   children: (args: ProductCartHandlers) => ReactElement;
   className?: string;
   style?: CSSProperties;
