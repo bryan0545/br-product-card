@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard Should display the component correctly 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Hola
+  </h1>
+</div>
+`;
